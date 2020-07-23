@@ -33,10 +33,10 @@ The Website Model, could be used for replication for Non Government Organisation
 
 **Procedure**
 
-1. npm install
+1. _npm install_:
 To Install all dependencies required for the website to run
 
-2. npm start
+2. _npm start_:
 Runs the website in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
