@@ -25,6 +25,20 @@ This Project includes a Website designed for **SORAD, Society of Research and De
 ==> **Contact Us Section**:
 ![SORAD5](https://user-images.githubusercontent.com/66758271/88244618-f03c9000-ccb1-11ea-99be-6272eb35c7ab.PNG)
 
+# Live Website:
+The Website is currently live at www.soradsociety.org
+
+# Local Setup & Major User Base:
+The Website Model, could be used for replication for Non Government Organisation, or any Local Businesses.
+
+**Procedure**
+
+1. npm install
+To Install all dependencies required for the website to run
+
+2. npm start
+Runs the website in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
 
 
